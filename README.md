@@ -1,11 +1,4 @@
----
-page_type: sample
-languages:
-- cpp
-products:
-- windows-mixed-reality
-- hololens
----
+
 
 # The Impact of Sunlight and Shadows from Buildings on Car Accidents in Chicago
 
