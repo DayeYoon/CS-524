@@ -17,5 +17,5 @@
 
 ## Prerequisites
 
-When you use the 'cs524_shadow_for_every_building.py', you need to install the pybdshadow
+When using cs524_shadow_for_every_building.py, you need to install the pybdshadow library.
 https://pybdshadow.readthedocs.io/en/latest/
